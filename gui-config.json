@@ -1,0 +1,565 @@
+{
+    "configs": [
+        {
+            "server": "au1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u6fb3\u5927\u5229\u4e9a-AU1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "au1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u6fb3\u5927\u5229\u4e9a-AU1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "au1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u6fb3\u5927\u5229\u4e9a-AU1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "au1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u6fb3\u5927\u5229\u4e9a-AU1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "de1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u5fb7\u56fd-DE1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "de1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u5fb7\u56fd-DE1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "de1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u5fb7\u56fd-DE1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "de1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u5fb7\u56fd-DE1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ee1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7231\u6c99\u5c3c\u4e9a-EE1-1,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "ee1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7231\u6c99\u5c3c\u4e9a-EE1-2,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "ee1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7231\u6c99\u5c3c\u4e9a-EE1-3,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "ee1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7231\u6c99\u5c3c\u4e9a-EE1-4,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "fm1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "fm1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "fm1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "fm1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "fm2-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM2-1,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "fm2-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM2-2,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "fm2-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM2-3,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "fm2-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-FM2-4,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "hk1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u9999\u6e2f-HK1-1,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "hk1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u9999\u6e2f-HK1-2,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "hk1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u9999\u6e2f-HK1-3,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "hk1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u9999\u6e2f-HK1-4,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "tw1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u53f0\u6e7e-TW1-1,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "tw1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u53f0\u6e7e-TW1-2,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "tw1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u53f0\u6e7e-TW1-3,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "tw1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u53f0\u6e7e-TW1-4,\u6d41\u91cf\u500d\u7387:0.50"
+        },
+        {
+            "server": "ty1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty2-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY2-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty2-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY2-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty2-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY2-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ty2-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-TY2-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-5.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-5,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-6.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-6,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-7.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-7,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "os1-8.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-OS1-8,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "nl1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u8377\u5170-NL1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "nl1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u8377\u5170-NL1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "nl1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u8377\u5170-NL1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "nl1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u8377\u5170-NL1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "uk1-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u82f1\u56fd-UK1-1,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "uk1-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u82f1\u56fd-UK1-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "uk1-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u82f1\u56fd-UK1-3,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "uk1-4.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u82f1\u56fd-UK1-4,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "v6-1.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u7f8e\u56fd-V6-1,\u6d41\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "v6-2.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-V6-2,\u6d41\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "v6-3.sstr-api.xyz",
+            "server_port": 443,
+            "password": "vEACkFhgJ6qbQQcJXH",
+            "tcp_fast_open": false,
+            "verify": true,
+            "verify_certificate": true,
+            "verify_hostname": true,
+            "remarks": "\u65e5\u672c-V6-3,\u6d41\u91cf\u500d\u7387:1.00"
+        }
+    ],
+    "localPort": 1080,
+    "index": 0,
+    "global": false,
+    "enabled": true,
+    "isDefault": false,
+    "socks5_address": "127.0.0.1",
+    "socks5_port": 1080,
+    "http_address": "127.0.0.1",
+    "http_port": 1081,
+    "pac_address": "127.0.0.1",
+    "pac_port": 8070
+}
